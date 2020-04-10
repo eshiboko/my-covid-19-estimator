@@ -1,4 +1,4 @@
-name: 'Report Audit'
+name: Covid-19 infections 
 description: 'report test stats for a challenge'
 inputs:
   challenge:
