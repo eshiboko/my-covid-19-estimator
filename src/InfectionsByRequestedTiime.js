@@ -3,15 +3,22 @@ const covid19ImpactEstimator = ()
 	const input = data;
 	return {
 		data: input,
-		impact: {ReportedCases:(*10)
+	}
+		"estimate":{
+			"impact": {
+				"currentlyInfected": 8950
+				"infectionsByRequestedTime": 80550
+				"SevereCasesByrequestedTime": 40275
 		}
-		severeImpact:
-			{CurrentlyInfected:(50*)
-				CurrentlyInfecte*(2 to the power of 9)
-				CurrentlyInfected *450
+		"severeImpact": {
+			"currentlyInfected": 724950
+			"infectionsByRequestedTime": 6524550
+			"SevereCasesByrequestedTime": 5799600
+				
 		}
-	}:
-}:
+		}
+	
+
 
 export default covid19ImpactEstimator;
 export default covid19ImpactEstimator
