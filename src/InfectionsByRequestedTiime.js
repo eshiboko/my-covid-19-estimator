@@ -33,8 +33,7 @@ const covid19ImpactEstimator = ()
 			"hospitalBedsByRequestedTime": 5545868
 			"casesForIcuByRequestedTime": 36247
 			"casesForVentilatorsByRequestedTime": 130491
-			"dollarsInFlight": 1592727
-				
+			"dollarsInFlight": 1592727		
 		}
 	
 export default covid19ImpactEstimator;
